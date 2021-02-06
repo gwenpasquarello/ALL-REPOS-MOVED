@@ -1,4 +1,4 @@
 # ALL-REPOS-MOVED
-I've moved all my repos outside of github. For me controling who, how, and where my code gets used is important so I've decided to run a [GOGS](https://gogs.io/) instance
+I've moved all my repos outside of github. I find myself weary of microsoft's (and big tech in general) increasing control over open source. Consequently I've decided to run a [GOGS](https://gogs.io/) instance for my own projects.
 Check it out at:
 https://mygit.link/
